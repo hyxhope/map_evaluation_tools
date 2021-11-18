@@ -22,7 +22,7 @@ python setup.py install
 ## Usage
 For details, please refer scripts/example.py
 
-###Example
+### Example
 
 ````python
 import numpy as np
@@ -41,7 +41,7 @@ print(map_evaluation.mme())
 print(map_evaluation.mpv())
 ````
 
-###Parameter
+### Parameter
 ````yaml
 // 参数设置(Optional)
 float voxelLeaf;    // 降采样阈值(可以为0，表示不进行降采样操作)
@@ -50,5 +50,5 @@ int stepSize;       // 步长(每隔几个点计算一次，可加快计算速�
 float radius;       // 最近邻搜索阈值
 ````
 
-##TODO
+## TODO
 Add mom
