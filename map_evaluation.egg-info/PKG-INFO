@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: map-evaluation
+Version: 0.0.1
+Summary: This tool computes the *Mean Map Entropy* and the *Mean Plane Variance* of a point cloud.
+Home-page: UNKNOWN
+Author: hyxhope
+Author-email: heyunxiang1997@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
